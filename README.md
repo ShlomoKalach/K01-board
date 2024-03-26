@@ -11,5 +11,6 @@ The K01 have the capability to be powered by a 12v solar panel or power supply
 
 ## Pinout and diagram
 
-![3](https://github.com/ShlomoKalach/K01-board/assets/111685576/418a8aeb-b79b-40b7-88bd-226e4fd25693)
+<img width="202" alt="image" src="https://github.com/ShlomoKalach/K01-board/assets/111685576/acfcd95e-5161-4590-9c29-5faf70c6855d">
+
 
