@@ -1,6 +1,7 @@
 # K01-board
 
-![4](https://github.com/ShlomoKalach/K01-board/assets/111685576/49fb4f3c-ffec-4623-bc6c-bfe1ad6d7ca3)
+<img width="136" alt="image" src="https://github.com/ShlomoKalach/K01-board/assets/111685576/f6fbe7c4-b4d4-4d5d-bec4-39eff7359ebe">
+
 
 This is a versatile IoT development board powered by the ESP32C3, featuring 4G and Wi-Fi connectivity, Bluetooth, GNSS, 2 programmable relay outputs, serial communication capability, a buzzer, RGB LED, and integrated temperature sensor.
 
